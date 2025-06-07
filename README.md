@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Felipe Fernandes!
-### Dev Back-End Java
-
+### Desenvolvedor Web
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-fernandes-ab7a3622a/)
 
 ## Tecnologias que eu utilizo:
